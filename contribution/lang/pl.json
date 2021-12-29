@@ -104,11 +104,11 @@
  	 	 	 	"eng": "Terminal"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "To progress to the next area, you need to get Secret Key Fragments from dungeons \r\n        and use the Terminal to Brute Force a key for the next area",
+ 	 	 	 	"trans": "By przejść do następnego regionu musisz zebrać Fragmenty Tajnych Kluczy z Lochów, \r\n       wejść do Terminalu i użyć Brute Force by stworzyć klucz.",
  	 	 	 	"eng": "To progress to the next area, you need to get Secret Key Fragments from dungeons, \r\n        and use the Terminal to Brute Force the key for next area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "This is your personal computer. Although a little outdated, it can get the job done with enough patience",
+ 	 	 	 	"trans": "To twój własny PC, jest trochę stary ale z odrobiną cierpliwości daje radę ze wszystkim.",
  	 	 	 	"eng": "Your personal computer, although it's a little outdated, it can get the job done with enough patience"
  	 	 	},
  	 	 	"canAccessError": {
@@ -117,7 +117,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"I'll help you to progress to the next area!"
+ 	 	 	 	 	"Pomogę Ci przejść do następnego regionu!"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"I'll help you to progress to the next area!"
@@ -131,7 +131,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hey kid... Come check out my goods."
+ 	 	 	 	 	"Hej Ty... Pokazać Ci moje towary?"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hey kid... Come check out my goods."
@@ -149,7 +149,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Welcome. What can I store for you?"
+ 	 	 	 	 	"Witaj. Co moogę dla Ciebie przechować?"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Welcome. What can I store for you?"
@@ -162,7 +162,7 @@
  	 	 	 	"eng": "Calibration Station"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A workbench with the necessary tools, allowing you to tinker with your equipment.",
+ 	 	 	 	"trans": "Stół warsztatowy z narzędziami pozwalającym majstrować Ci przy twoim ekwipunku.",
  	 	 	 	"eng": "A workbench with the necessary tools allows you to tinker with your equipment."
  	 	 	},
  	 	 	"canAccessError": {
@@ -171,7 +171,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Insert a Calibration Core into the machine, and I shall help you calibrate any of your equipment."
+ 	 	 	 	 	"Włóż Rdzeń Kalibracyjny do maszyny, a ja pomoge Ci ulepszyć dowolny ekwipunek."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Insert a Calibration Core into the machine, and I shall help you calibrate any of your equipment."
@@ -180,11 +180,11 @@
  	 	},
  	 	"storageMerchant": {
  	 	 	"name": {
- 	 	 	 	"trans": "Punkt Wymianu u Lee",
+ 	 	 	 	"trans": "Kantor u Lee",
  	 	 	 	"eng": "Lee's Trading Post"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A family-run trading shop that lets you trade with scavenged goods.",
+ 	 	 	 	"trans": "Wielopokoliniowy Kantor, który za techniczny złom oferuje więcej miejsca w ekwipunku.",
  	 	 	 	"eng": "A family run trading shop that lets you trade with what they have found while scavenging"
  	 	 	},
  	 	 	"canAccessError": {
@@ -193,7 +193,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hey kid, I'm Lee, You know, you don't have to carry everything you own in your pockets."
+ 	 	 	 	 	"Hej Ty, Jetem Lee, Wiesz... Nie musisz nosić wszystkiego co posiadasz w kieszeniach."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hey kid, I'm Lee, You know, you don't have to carry everything you own in your pockets."
@@ -206,7 +206,7 @@
  	 	 	 	"eng": "Automatic Recycler"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Fully-automated recycler, capable of recycling items to their basic scrap form",
+ 	 	 	 	"trans": "W pełni autoomatyczny recykler, zdolny do przetwarzania przedmiotów wtórnie do ich pierwotnych form",
  	 	 	 	"eng": "Fully automated recycler, capable of recycling items to their basic scrap form"
  	 	 	}
  	 	}
