@@ -32,7 +32,7 @@
  	 	 	 	"eng": "You can purchase global buff items here"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Musisz mieć przynajmnajmniej 3 poziom by uzyskać dostęp do Giełdy",
+ 	 	 	 	"trans": "Musisz mieć przynajmniej 3 poziom by uzyskać dostęp do Giełdy",
  	 	 	 	"eng": "You need to be at least level 3 to access unit exchange"
  	 	 	},
  	 	 	"defaultLines": {
@@ -54,7 +54,7 @@
  	 	 	 	"eng": "If you liked the game, please consider donation :)"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Musisz mieć przynajmnajmniej 3 poziom by uzyskać dostęp Handlarza",
+ 	 	 	 	"trans": "Musisz mieć przynajmniej 3 poziom by uzyskać dostęp Handlarza",
  	 	 	 	"eng": "You need to be at least level 3 to access cosmetic merchant"
  	 	 	},
  	 	 	"defaultLines": {
@@ -112,7 +112,7 @@
  	 	 	 	"eng": "Your personal computer, although it's a little outdated, it can get the job done with enough patience"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Musisz mieć przynajmnajmniej 5 poziom by uzyskać dostęp do Terminalu",
+ 	 	 	 	"trans": "Musisz mieć przynajmniej 5 poziom by uzyskać dostęp do Terminalu",
  	 	 	 	"eng": "You need to be at least level 5 to access terminal"
  	 	 	},
  	 	 	"defaultLines": {
@@ -144,7 +144,7 @@
  	 	 	 	"eng": "Bank of Arasaka"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Musisz mieć przynajmnajmniej 5 poziom by uzyskać dostęp do Banku",
+ 	 	 	 	"trans": "Musisz mieć przynajmniej 5 poziom by uzyskać dostęp do Banku",
  	 	 	 	"eng": "You need to be at least level 5 to access bank"
  	 	 	},
  	 	 	"defaultLines": {
@@ -166,7 +166,7 @@
  	 	 	 	"eng": "A workbench with the necessary tools allows you to tinker with your equipment."
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Musisz mieć przynajmnajmniej 10 poziom by uzyskać dostęp do Stacji kalibracyjnej",
+ 	 	 	 	"trans": "Musisz mieć przynajmniej 10 poziom by uzyskać dostęp do Stacji kalibracyjnej",
  	 	 	 	"eng": "You need to be at least level 10 to access Calibration Station"
  	 	 	},
  	 	 	"defaultLines": {
@@ -1871,42 +1871,42 @@
  	 	},
  	 	"chat": {
  	 	 	"chat": {
- 	 	 	 	"trans": "czat",
+ 	 	 	 	"trans": "Czat",
  	 	 	 	"eng": "chat"
  	 	 	},
  	 	 	"gang": {
- 	 	 	 	"trans": "banda",
+ 	 	 	 	"trans": "Gang",
  	 	 	 	"eng": "gang"
- 	 	 	},
+ 	 	},
  	 	 	"mail": {
- 	 	 	 	"trans": "Poczta",
+ 	 	 	 	"trans": "Skrzynka",
  	 	 	 	"eng": "mail"
  	 	 	},
  	 	 	"noti": {
- 	 	 	 	"trans": "Znany.",
+ 	 	 	 	"trans": "Powiad.",
  	 	 	 	"eng": "noti."
  	 	 	},
  	 	 	"reconnecting": {
- 	 	 	 	"trans": "Ponowne połączenie",
+ 	 	 	 	"trans": "Ponowne nawiązywanie połączenia",
  	 	 	 	"eng": "Reestablishing connection"
  	 	 	},
  	 	 	"underlevelChatBlock": {
  	 	 	 	"vars": [
  	 	 	 	 	"minLevel"
  	 	 	 	],
- 	 	 	 	"trans": "Musisz mieć co najmniej poziom ${minLevel}, aby wysłać wiadomości czatu",
+ 	 	 	 	"trans": "Musisz mieć przynajmniej ${minLevel} poziom, aby wysłać wiadomości na czacie",
  	 	 	 	"eng": "You need to be at least level ${minLevel} to send chat messages"
  	 	 	},
  	 	 	"spamBlock": {
- 	 	 	 	"trans": "Nie wysyłaj bezsensownej wiadomości, spamy zostaną wyciszone.",
+ 	 	 	 	"trans": "Nie wysyłaj bezsensownych wiadomości, spam zostanie wyciszony.",
  	 	 	 	"eng": "Please do not send meaningless message, spams will be muted."
  	 	 	},
  	 	 	"repeatBlock": {
- 	 	 	 	"trans": "Nie należy wielokrotnie wysyłać tej samej wiadomości, spamy zostaną wyciszone.",
+ 	 	 	 	"trans": "Nie wysyłaj wielokrotnie takiej samej wiadomości, spam zostanie wyciszony.",
  	 	 	 	"eng": "Please do not send the same message repeatedly, spams will be muted."
  	 	 	},
  	 	 	"shortChatBlock": {
- 	 	 	 	"trans": "Nie wysyłaj krótkich wiadomości, zamiast tego spróbuj już dłuższego zdania.",
+ 	 	 	 	"trans": "Nie wysyłaj krótkich wiadomości, zamiast tego spróbuj pisać pełnym zdaniem.",
  	 	 	 	"eng": "Please do not send short messages, try a longer sentence instead."
  	 	 	},
  	 	 	"notAtBottom": {
@@ -1928,7 +1928,7 @@
  	 	 	 	"eng": "tutorial"
  	 	 	},
  	 	 	"credits": {
- 	 	 	 	"trans": "Credits",
+ 	 	 	 	"trans": "Zespół",
  	 	 	 	"eng": "credits"
  	 	 	},
  	 	 	"deleteAccount": {
@@ -1960,7 +1960,7 @@
  	 	 	 	"eng": "Language"
  	 	 	},
  	 	 	"langWarning": {
- 	 	 	 	"trans": "This language pack is open-source and contributed to by our players. The text may not be fully translated and may contain mistakes. Please feel free to edit and contribute from our Github page",
+ 	 	 	 	"trans": "Ten język jest open-source, współtworzonym ze społeczeństwem naszej gry. Mogą pojawić się błędy w tłumaczeniu bądź jego braki. Śmiało możesz edytować i pomagać tłumaczyć na GitHubie gry.",
  	 	 	 	"eng": "This language pack is open source and contributed by our players, the text may not be fully translated and could contain mistakes. please feel free to edit and contribute from our Github page"
  	 	 	},
  	 	 	"playBackgroundMusic": {
